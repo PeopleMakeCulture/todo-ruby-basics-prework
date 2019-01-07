@@ -9,7 +9,6 @@ end
 
 def argue(arg)
   return arg
-
 end
 
 def greeting
